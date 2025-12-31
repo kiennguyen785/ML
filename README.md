@@ -47,3 +47,7 @@ K-Nearest Neighbors
 | Logistic Regression | 0.84 | 0.85 | 0.88 | 0.86 |
 | K-Nearest Neighbors | 0.81 | 0.82 | 0.85 | 0.84 |
 | Random Forest | 0.82 | 0.84 | 0.86 | 0.85 |
+## Cách chạy
+Chạy trên vscode hoặc colab với những cell code giống trong app/predict_depression.ipynb
+## Tác giả
+Nguyễn Trần Kiên - 12423018 - 12423TN12423TN
