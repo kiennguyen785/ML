@@ -1,0 +1,6 @@
+*Cách 1 
+- Bước 1: Vào google nhập từ khóa "kaggle"  
+- Bước 2: Vào phần dataset phía bên tay trái và nhập vào thanh tìm kiếm từ khóa "Student Depression Dataset" 
+- Bước 3: Nhấn váo phần có mũi tên download để tải về
+*Cách 2
+Truy cập vào đường dẫn "https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset"
